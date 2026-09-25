@@ -66,14 +66,14 @@ cd jev-banking-routing-go
 git init
 git add .
 git commit -m "Initial commit: Jev banking transaction router"
-git remote add origin https://github.com/YOUR_USERNAME/jev-banking-routing-go.git
+git remote add origin git@github.com:DineshKuppan/jev-banking-routing-go.git
 git push -u origin main
 ```
 
 ### Step 2: Update Blog URL (2 min)
-Replace `example` with your GitHub username in `MEDIUM-BLOG-DRAFT.md`:
+The GitHub repository URL in `MEDIUM-BLOG-DRAFT.md` is already set:
 ```markdown
-git clone https://github.com/YOUR_USERNAME/jev-banking-routing-go.git
+git clone git@github.com:DineshKuppan/jev-banking-routing-go.git
 ```
 
 ### Step 3: Publish on Medium (30+ min)
